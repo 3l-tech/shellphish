@@ -22,7 +22,7 @@ pkg install wget
 pkg install curl
 pkg install PHP
 pkg install unzip
-git clone https://github.com/3l-tech/shellphish
+git clone https://github.com/suljot/shellphish
 cd shellphish
 bash shellphish.sh
 ```
